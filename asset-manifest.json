@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/appdotempo/static/css/main.be056aad.css",
+    "main.js": "/appdotempo/static/js/main.bd5f4e6b.js",
+    "static/media/background.jpg": "/appdotempo/static/media/background.16736dcb62c39c92d6ba.jpg",
+    "index.html": "/appdotempo/index.html",
+    "main.be056aad.css.map": "/appdotempo/static/css/main.be056aad.css.map",
+    "main.bd5f4e6b.js.map": "/appdotempo/static/js/main.bd5f4e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be056aad.css",
+    "static/js/main.bd5f4e6b.js"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "short_name": "App do Tempo",
+    "name": "App do Tempo",
+    "icons": [
+        {
+            "src": "./imagens/logo512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "./imagens/logo192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color":"#000000"
+}
